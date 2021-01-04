@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Controllers" t="Include">
+        <e p="HomeController.cs" t="Include" />
+        <e p="ProdutoController.cs" t="Include" />
+      </e>
+      <e p="Database" t="Include">
+        <e p="LojaVirtualContext.cs" t="Include" />
+      </e>
+      <e p="Libraries" t="Include">
+        <e p="Email" t="Include">
+          <e p="ContatoEmail.cs" t="Include" />
+        </e>
+        <e p="Lang" t="Include">
+          <e p="Mensagem.Designer.cs" t="Include" />
+          <e p="Mensagem.resx" t="Include" />
+        </e>
+      </e>
+      <e p="LojaVirtual.csproj" t="IncludeRecursive" />
+      <e p="Models" t="Include">
+        <e p="Cliente.cs" t="Include" />
+        <e p="Contato.cs" t="Include" />
+        <e p="ErrorViewModel.cs" t="Include" />
+        <e p="Produto.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="Home" t="Include">
+          <e p="CadastroCliente.cshtml" t="Include" />
+          <e p="CarrinhoCompras.cshtml" t="Include" />
+          <e p="Contato.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+          <e p="Login.cshtml" t="Include" />
+        </e>
+        <e p="Produto" t="Include">
+          <e p="Visualizar.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_Layout.cshtml" t="Include" />
+        </e>
+        <e p="_ViewStart.cshtml" t="Include" />
+      </e>
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="LojaVirtual.AssemblyInfo.cs" t="Include" />
+            <e p="LojaVirtual.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="wwwroot" t="Include">
+        <e p="favicon.ico" t="Include" />
+        <e p="paginas" t="Include">
+          <e p="cadastro.html" t="Include" />
+          <e p="carrinho.html" t="Include" />
+          <e p="cartao.html" t="Include" />
+          <e p="contato.html" t="Include" />
+          <e p="detalhe.html" t="Include" />
+          <e p="finalizado.html" t="Include" />
+          <e p="index.html" t="Include" />
+          <e p="login.html" t="Include" />
+          <e p="painel_cliente.html" t="Include" />
+        </e>
+        <e p="resources" t="Include">
+          <e p="lib" t="Include">
+            <e p="bootstrap-4.2.1-dist" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap-grid.css" t="Include" />
+                <e p="bootstrap-grid.css.map" t="Include" />
+                <e p="bootstrap-grid.min.css" t="Include" />
+                <e p="bootstrap-grid.min.css.map" t="Include" />
+                <e p="bootstrap-reboot.css" t="Include" />
+                <e p="bootstrap-reboot.css.map" t="Include" />
+                <e p="bootstrap-reboot.min.css" t="Include" />
+                <e p="bootstrap-reboot.min.css.map" t="Include" />
+                <e p="bootstrap.css" t="Include" />
+                <e p="bootstrap.css.map" t="Include" />
+                <e p="bootstrap.min.css" t="Include" />
+                <e p="bootstrap.min.css.map" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.bundle.js" t="Include" />
+                <e p="bootstrap.bundle.js.map" t="Include" />
+                <e p="bootstrap.bundle.min.js" t="Include" />
+                <e p="bootstrap.bundle.min.js.map" t="Include" />
+                <e p="bootstrap.js" t="Include" />
+                <e p="bootstrap.js.map" t="Include" />
+                <e p="bootstrap.min.js" t="Include" />
+                <e p="bootstrap.min.js.map" t="Include" />
+              </e>
+            </e>
+            <e p="bootstrap-ecommerce-uikit" t="Include">
+              <e p="_bootstrap-ecommerce.com.url" t="Include" />
+              <e p="_readme.txt" t="Include" />
+              <e p="css" t="Include">
+                <e p="bootstrap.css" t="Include" />
+                <e p="bootstrap.css.map" t="Include" />
+                <e p="responsive.css" t="Include" />
+                <e p="responsive.css.map" t="Include" />
+                <e p="ui.css" t="Include" />
+                <e p="ui.css.map" t="Include" />
+              </e>
+              <e p="index.html" t="Include" />
+              <e p="js" t="Include">
+                <e p="bootstrap.bundle.min.js" t="Include" />
+                <e p="jquery-2.0.0.min.js" t="Include" />
+                <e p="script.js" t="Include" />
+              </e>
+              <e p="ui-design" t="Include">
+                <e p="bootstrap-ecommerce-uikit.sketch" t="Include" />
+                <e p="icons" t="Include">
+                  <e p="32x32-transparent" t="Include">
+                    <e p="android.png" t="Include" />
+                    <e p="apple.png" t="Include" />
+                    <e p="bag.png" t="Include" />
+                    <e p="ball.png" t="Include" />
+                    <e p="bar.png" t="Include" />
+                    <e p="book.png" t="Include" />
+                    <e p="building.png" t="Include" />
+                    <e p="bus.png" t="Include" />
+                    <e p="car.png" t="Include" />
+                    <e p="car_repair.png" t="Include" />
+                    <e p="cpu.png" t="Include" />
+                    <e p="desktop_windows.png" t="Include" />
+                    <e p="diamond.png" t="Include" />
+                    <e p="fix.png" t="Include" />
+                    <e p="homeitem.png" t="Include" />
+                    <e p="hotel.png" t="Include" />
+                    <e p="ic_camera_alt.png" t="Include" />
+                    <e p="med.png" t="Include" />
+                    <e p="money.png" t="Include" />
+                    <e p="more.png" t="Include" />
+                    <e p="motorbike.png" t="Include" />
+                    <e p="museum.png" t="Include" />
+                    <e p="pants.png" t="Include" />
+                    <e p="plane.png" t="Include" />
+                    <e p="playstore.png" t="Include" />
+                    <e p="restaurant.png" t="Include" />
+                    <e p="restaurant2.png" t="Include" />
+                    <e p="scissor.png" t="Include" />
+                    <e p="shipping.png" t="Include" />
+                    <e p="shirt.png" t="Include" />
+                    <e p="shopping copy 2.png" t="Include" />
+                    <e p="shopping copy 3.png" t="Include" />
+                    <e p="shopping copy.png" t="Include" />
+                    <e p="shopping.png" t="Include" />
+                    <e p="smartwatch.png" t="Include" />
+                    <e p="spa.png" t="Include" />
+                    <e p="sport.png" t="Include" />
+                    <e p="toy.png" t="Include" />
+                    <e p="university.png" t="Include" />
+                    <e p="watch.png" t="Include" />
+                    <e p="wifi.png" t="Include" />
+                    <e p="windows.png" t="Include" />
+                  </e>
+                  <e p="64x64-transparent" t="Include">
+                    <e p="android.png" t="Include" />
+                    <e p="apple.png" t="Include" />
+                    <e p="bag.png" t="Include" />
+                    <e p="ball.png" t="Include" />
+                    <e p="bar.png" t="Include" />
+                    <e p="book.png" t="Include" />
+                    <e p="building.png" t="Include" />
+                    <e p="bus.png" t="Include" />
+                    <e p="car.png" t="Include" />
+                    <e p="car_repair.png" t="Include" />
+                    <e p="cpu.png" t="Include" />
+                    <e p="desktop_windows.png" t="Include" />
+                    <e p="diamond.png" t="Include" />
+                    <e p="fix.png" t="Include" />
+                    <e p="homeitem.png" t="Include" />
+                    <e p="hotel.png" t="Include" />
+                    <e p="ic_camera_alt.png" t="Include" />
+                    <e p="med.png" t="Include" />
+                    <e p="money.png" t="Include" />
+                    <e p="more.png" t="Include" />
+                    <e p="motorbike.png" t="Include" />
+                    <e p="museum.png" t="Include" />
+                    <e p="pants.png" t="Include" />
+                    <e p="plane.png" t="Include" />
+                    <e p="playstore.png" t="Include" />
+                    <e p="restaurant.png" t="Include" />
+                    <e p="restaurant2.png" t="Include" />
+                    <e p="scissor.png" t="Include" />
+                    <e p="shipping.png" t="Include" />
+                    <e p="shirt.png" t="Include" />
+                    <e p="shopping copy 2.png" t="Include" />
+                    <e p="shopping copy 3.png" t="Include" />
+                    <e p="shopping copy.png" t="Include" />
+                    <e p="shopping.png" t="Include" />
+                    <e p="smartwatch.png" t="Include" />
+                    <e p="spa.png" t="Include" />
+                    <e p="sport.png" t="Include" />
+                    <e p="toy.png" t="Include" />
+                    <e p="university.png" t="Include" />
+                    <e p="watch.png" t="Include" />
+                    <e p="wifi.png" t="Include" />
+                    <e p="windows.png" t="Include" />
+                  </e>
+                  <e p="64x64-white" t="Include">
+                    <e p="android.png" t="Include" />
+                    <e p="apple.png" t="Include" />
+                    <e p="bag.png" t="Include" />
+                    <e p="ball.png" t="Include" />
+                    <e p="bar.png" t="Include" />
+                    <e p="book.png" t="Include" />
+                    <e p="building.png" t="Include" />
+                    <e p="bus.png" t="Include" />
+                    <e p="car.png" t="Include" />
+                    <e p="car_repair.png" t="Include" />
+                    <e p="cpu.png" t="Include" />
+                    <e p="desktop_windows.png" t="Include" />
+                    <e p="diamond.png" t="Include" />
+                    <e p="fix.png" t="Include" />
+                    <e p="homeitem.png" t="Include" />
+                    <e p="hotel.png" t="Include" />
+                    <e p="ic_camera_alt.png" t="Include" />
+                    <e p="med.png" t="Include" />
+                    <e p="money.png" t="Include" />
+                    <e p="more.png" t="Include" />
+                    <e p="motorbike.png" t="Include" />
+                    <e p="museum.png" t="Include" />
+                    <e p="pants.png" t="Include" />
+                    <e p="plane.png" t="Include" />
+                    <e p="playstore.png" t="Include" />
+                    <e p="restaurant.png" t="Include" />
+                    <e p="restaurant2.png" t="Include" />
+                    <e p="scissor.png" t="Include" />
+                    <e p="shipping.png" t="Include" />
+                    <e p="shirt.png" t="Include" />
+                    <e p="shopping copy 2.png" t="Include" />
+                    <e p="shopping copy 3.png" t="Include" />
+                    <e p="shopping copy.png" t="Include" />
+                    <e p="shopping.png" t="Include" />
+                    <e p="smartwatch.png" t="Include" />
+                    <e p="spa.png" t="Include" />
+                    <e p="sport.png" t="Include" />
+                    <e p="toy.png" t="Include" />
+                    <e p="university.png" t="Include" />
+                    <e p="watch.png" t="Include" />
+                    <e p="wifi.png" t="Include" />
+                    <e p="windows.png" t="Include" />
+                  </e>
+                  <e p="icons-all.png" t="Include" />
+                  <e p="svg" t="Include">
+                    <e p="android.svg" t="Include" />
+                    <e p="apple.svg" t="Include" />
+                    <e p="bag.svg" t="Include" />
+                    <e p="ball.svg" t="Include" />
+                    <e p="bar.svg" t="Include" />
+                    <e p="book.svg" t="Include" />
+                    <e p="building.svg" t="Include" />
+                    <e p="bus.svg" t="Include" />
+                    <e p="car.svg" t="Include" />
+                    <e p="car_repair.svg" t="Include" />
+                    <e p="cpu.svg" t="Include" />
+                    <e p="desktop_windows.svg" t="Include" />
+                    <e p="diamond.svg" t="Include" />
+                    <e p="fix.svg" t="Include" />
+                    <e p="homeitem.svg" t="Include" />
+                    <e p="hotel.svg" t="Include" />
+                    <e p="ic_camera_alt.svg" t="Include" />
+                    <e p="med.svg" t="Include" />
+                    <e p="money.svg" t="Include" />
+                    <e p="more.svg" t="Include" />
+                    <e p="motorbike.svg" t="Include" />
+                    <e p="museum.svg" t="Include" />
+                    <e p="pants.svg" t="Include" />
+                    <e p="plane.svg" t="Include" />
+                    <e p="playstore.svg" t="Include" />
+                    <e p="restaurant.svg" t="Include" />
+                    <e p="restaurant2.svg" t="Include" />
+                    <e p="scissor.svg" t="Include" />
+                    <e p="shipping.svg" t="Include" />
+                    <e p="shirt.svg" t="Include" />
+                    <e p="shopping copy 2.svg" t="Include" />
+                    <e p="shopping copy 3.svg" t="Include" />
+                    <e p="shopping copy.svg" t="Include" />
+                    <e p="shopping.svg" t="Include" />
+                    <e p="smartwatch.svg" t="Include" />
+                    <e p="spa.svg" t="Include" />
+                    <e p="sport.svg" t="Include" />
+                    <e p="toy.svg" t="Include" />
+                    <e p="university.svg" t="Include" />
+                    <e p="watch.svg" t="Include" />
+                    <e p="wifi.svg" t="Include" />
+                    <e p="windows.svg" t="Include" />
+                  </e>
+                </e>
+                <e p="index.html" t="Include" />
+                <e p="shots" t="Include">
+                  <e p="Showcase-sketch.jpg" t="Include" />
+                  <e p="Showcase.jpg" t="Include" />
+                  <e p="Showcase.psd" t="Include" />
+                  <e p="cards-grid.png" t="Include" />
+                  <e p="categories.png" t="Include" />
+                  <e p="forms.png" t="Include" />
+                  <e p="headers.png" t="Include" />
+                  <e p="items-aside.png" t="Include" />
+                  <e p="product-detail.png" t="Include" />
+                  <e p="product-listing.png" t="Include" />
+                  <e p="thumbnail-shoes-home.png" t="Include" />
+                  <e p="thumbnail-shoes-page.png" t="Include" />
+                </e>
+              </e>
+              <e p="ui-ecommerce" t="Include">
+                <e p="example-sliders.html" t="Include" />
+                <e p="fonts" t="Include">
+                  <e p="fontawesome" t="Include">
+                    <e p="css" t="Include">
+                      <e p="fa-brands.css" t="Include" />
+                      <e p="fa-brands.min.css" t="Include" />
+                      <e p="fa-regular.css" t="Include" />
+                      <e p="fa-regular.min.css" t="Include" />
+                      <e p="fa-solid.css" t="Include" />
+                      <e p="fa-solid.min.css" t="Include" />
+                      <e p="fontawesome-all.css" t="Include" />
+                      <e p="fontawesome-all.min.css" t="Include" />
+                      <e p="fontawesome.css" t="Include" />
+                      <e p="fontawesome.min.css" t="Include" />
+                    </e>
+                    <e p="scss" t="Include">
+                      <e p="_animated.scss" t="Include" />
+                      <e p="_bordered-pulled.scss" t="Include" />
+                      <e p="_core.scss" t="Include" />
+                      <e p="_fixed-width.scss" t="Include" />
+                      <e p="_icons.scss" t="Include" />
+                      <e p="_larger.scss" t="Include" />
+                      <e p="_list.scss" t="Include" />
+                      <e p="_mixins.scss" t="Include" />
+                      <e p="_rotated-flipped.scss" t="Include" />
+                      <e p="_screen-reader.scss" t="Include" />
+                      <e p="_stacked.scss" t="Include" />
+                      <e p="_variables.scss" t="Include" />
+                      <e p="fa-brands.scss" t="Include" />
+                      <e p="fa-regular.scss" t="Include" />
+                      <e p="fa-solid.scss" t="Include" />
+                      <e p="fontawesome.scss" t="Include" />
+                    </e>
+                    <e p="webfonts" t="Include">
+                      <e p="fa-brands-400.eot" t="Include" />
+                      <e p="fa-brands-400.svg" t="Include" />
+                      <e p="fa-brands-400.ttf" t="Include" />
+                      <e p="fa-brands-400.woff" t="Include" />
+                      <e p="fa-brands-400.woff2" t="Include" />
+                      <e p="fa-regular-400.eot" t="Include" />
+                      <e p="fa-regular-400.svg" t="Include" />
+                      <e p="fa-regular-400.ttf" t="Include" />
+                      <e p="fa-regular-400.woff" t="Include" />
+                      <e p="fa-regular-400.woff2" t="Include" />
+                      <e p="fa-solid-900.eot" t="Include" />
+                      <e p="fa-solid-900.svg" t="Include" />
+                      <e p="fa-solid-900.ttf" t="Include" />
+                      <e p="fa-solid-900.woff" t="Include" />
+                      <e p="fa-solid-900.woff2" t="Include" />
+                    </e>
+                  </e>
+                  <e p="material-icons" t="Include">
+                    <e p="MaterialIcons-Regular.eot" t="Include" />
+                    <e p="MaterialIcons-Regular.ttf" t="Include" />
+                    <e p="MaterialIcons-Regular.woff" t="Include" />
+                    <e p="MaterialIcons-Regular.woff2" t="Include" />
+                    <e p="material-icons.css" t="Include" />
+                  </e>
+                  <e p="roboto" t="Include">
+                    <e p="Roboto-Bold.ttf" t="Include" />
+                    <e p="Roboto-Light.ttf" t="Include" />
+                    <e p="Roboto-Medium.ttf" t="Include" />
+                    <e p="Roboto-Regular.ttf" t="Include" />
+                    <e p="Roboto-Thin.ttf" t="Include" />
+                    <e p="font.css" t="Include" />
+                  </e>
+                </e>
+                <e p="html-components.html" t="Include" />
+                <e p="images" t="Include">
+                  <e p="Thumbs.db" t="Include" />
+                  <e p="apple-touch-icon.png" t="Include" />
+                  <e p="avatars" t="Include">
+                    <e p="avatar1.jpg" t="Include" />
+                    <e p="avatar2.jpg" t="Include" />
+                    <e p="avatar3.jpg" t="Include" />
+                  </e>
+                  <e p="banners" t="Include">
+                    <e p="banner-request.jpg" t="Include" />
+                    <e p="bg-cpu.jpg" t="Include" />
+                    <e p="bg-pattern.svg" t="Include" />
+                    <e p="slide1.jpg" t="Include" />
+                    <e p="slide2.jpg" t="Include" />
+                    <e p="slide3.jpg" t="Include" />
+                  </e>
+                  <e p="brand.png" t="Include" />
+                  <e p="favicon-32x32.png" t="Include" />
+                  <e p="favicon.ico" t="Include" />
+                  <e p="icons" t="Include">
+                    <e p="flag-in.png" t="Include" />
+                    <e p="flag-kr.png" t="Include" />
+                    <e p="flag-tr.png" t="Include" />
+                    <e p="flag-usa.png" t="Include" />
+                    <e p="flag-vt.png" t="Include" />
+                    <e p="pay-american-ex.png" t="Include" />
+                    <e p="pay-bank.png" t="Include" />
+                    <e p="pay-mastercard.png" t="Include" />
+                    <e p="pay-visa-el.png" t="Include" />
+                    <e p="pay-visa.png" t="Include" />
+                    <e p="rating-2.png" t="Include" />
+                    <e p="rating-3.png" t="Include" />
+                    <e p="rating-4.png" t="Include" />
+                    <e p="rating-5.png" t="Include" />
+                  </e>
+                  <e p="items" t="Include">
+                    <e p="1.jpg" t="Include" />
+                    <e p="2.jpg" t="Include" />
+                    <e p="3.jpg" t="Include" />
+                    <e p="4.jpg" t="Include" />
+                    <e p="5.jpg" t="Include" />
+                    <e p="6.jpg" t="Include" />
+                    <e p="7.jpg" t="Include" />
+                    <e p="comp.png" t="Include" />
+                    <e p="item-sm.jpg" t="Include" />
+                    <e p="item-sm.png" t="Include" />
+                  </e>
+                  <e p="logo-dark.png" t="Include" />
+                  <e p="logo-white.png" t="Include" />
+                  <e p="logo.png" t="Include" />
+                  <e p="logos" t="Include">
+                    <e p="logo-alibaba.png" t="Include" />
+                    <e p="logo1.png" t="Include" />
+                    <e p="logo2.png" t="Include" />
+                    <e p="logo3.png" t="Include" />
+                    <e p="logo4.png" t="Include" />
+                    <e p="logo5.png" t="Include" />
+                  </e>
+                  <e p="posts" t="Include">
+                    <e p="1.jpg" t="Include" />
+                    <e p="2.jpg" t="Include" />
+                    <e p="3.jpg" t="Include" />
+                    <e p="4.jpg" t="Include" />
+                    <e p="5.jpg" t="Include" />
+                    <e p="6.jpg" t="Include" />
+                  </e>
+                </e>
+                <e p="index.html" t="Include" />
+                <e p="plugins" t="Include">
+                  <e p="fancybox" t="Include">
+                    <e p="fancybox.min.css" t="Include" />
+                    <e p="fancybox.min.js" t="Include" />
+                    <e p="index.html" t="Include" />
+                  </e>
+                  <e p="owlcarousel" t="Include">
+                    <e p="assets" t="Include">
+                      <e p="ajax-loader.gif" t="Include" />
+                      <e p="owl.carousel.css" t="Include" />
+                      <e p="owl.carousel.min.css" t="Include" />
+                      <e p="owl.theme.default.css" t="Include" />
+                      <e p="owl.theme.default.min.css" t="Include" />
+                      <e p="owl.theme.green.css" t="Include" />
+                      <e p="owl.theme.green.min.css" t="Include" />
+                      <e p="owl.video.play.png" t="Include" />
+                    </e>
+                    <e p="owl.carousel.js" t="Include" />
+                    <e p="owl.carousel.min.js" t="Include" />
+                  </e>
+                  <e p="prism" t="Include">
+                    <e p="prism.css" t="Include" />
+                    <e p="prism.js" t="Include" />
+                  </e>
+                  <e p="slickslider" t="Include">
+                    <e p="ajax-loader.gif" t="Include" />
+                    <e p="fonts" t="Include">
+                      <e p="slick.eot" t="Include" />
+                      <e p="slick.svg" t="Include" />
+                      <e p="slick.ttf" t="Include" />
+                      <e p="slick.woff" t="Include" />
+                    </e>
+                    <e p="slick-theme.css" t="Include" />
+                    <e p="slick.css" t="Include" />
+                    <e p="slick.js" t="Include" />
+                    <e p="slick.min.js" t="Include" />
+                  </e>
+                </e>
+                <e p="sass" t="Include">
+                  <e p="_variables-custom.scss" t="Include" />
+                  <e p="bootstrap-assets" t="Include">
+                    <e p="_alert.scss" t="Include" />
+                    <e p="_badge.scss" t="Include" />
+                    <e p="_bootstrap.scss" t="Include" />
+                    <e p="_breadcrumb.scss" t="Include" />
+                    <e p="_button-group.scss" t="Include" />
+                    <e p="_buttons.scss" t="Include" />
+                    <e p="_card.scss" t="Include" />
+                    <e p="_carousel.scss" t="Include" />
+                    <e p="_close.scss" t="Include" />
+                    <e p="_code.scss" t="Include" />
+                    <e p="_custom-forms.scss" t="Include" />
+                    <e p="_dropdown.scss" t="Include" />
+                    <e p="_forms.scss" t="Include" />
+                    <e p="_functions.scss" t="Include" />
+                    <e p="_grid.scss" t="Include" />
+                    <e p="_images.scss" t="Include" />
+                    <e p="_input-group.scss" t="Include" />
+                    <e p="_jumbotron.scss" t="Include" />
+                    <e p="_list-group.scss" t="Include" />
+                    <e p="_media.scss" t="Include" />
+                    <e p="_mixins.scss" t="Include" />
+                    <e p="_modal.scss" t="Include" />
+                    <e p="_nav.scss" t="Include" />
+                    <e p="_navbar.scss" t="Include" />
+                    <e p="_pagination.scss" t="Include" />
+                    <e p="_popover.scss" t="Include" />
+                    <e p="_print.scss" t="Include" />
+                    <e p="_progress.scss" t="Include" />
+                    <e p="_reboot.scss" t="Include" />
+                    <e p="_root.scss" t="Include" />
+                    <e p="_tables.scss" t="Include" />
+                    <e p="_tooltip.scss" t="Include" />
+                    <e p="_transitions.scss" t="Include" />
+                    <e p="_type.scss" t="Include" />
+                    <e p="_utilities.scss" t="Include" />
+                    <e p="_variables.scss" t="Include" />
+                    <e p="mixins" t="Include">
+                      <e p="_alert.scss" t="Include" />
+                      <e p="_background-variant.scss" t="Include" />
+                      <e p="_badge.scss" t="Include" />
+                      <e p="_border-radius.scss" t="Include" />
+                      <e p="_box-shadow.scss" t="Include" />
+                      <e p="_breakpoints.scss" t="Include" />
+                      <e p="_buttons.scss" t="Include" />
+                      <e p="_caret.scss" t="Include" />
+                      <e p="_clearfix.scss" t="Include" />
+                      <e p="_float.scss" t="Include" />
+                      <e p="_forms.scss" t="Include" />
+                      <e p="_gradients.scss" t="Include" />
+                      <e p="_grid-framework.scss" t="Include" />
+                      <e p="_grid.scss" t="Include" />
+                      <e p="_hover.scss" t="Include" />
+                      <e p="_image.scss" t="Include" />
+                      <e p="_list-group.scss" t="Include" />
+                      <e p="_lists.scss" t="Include" />
+                      <e p="_nav-divider.scss" t="Include" />
+                      <e p="_pagination.scss" t="Include" />
+                      <e p="_reset-text.scss" t="Include" />
+                      <e p="_resize.scss" t="Include" />
+                      <e p="_screen-reader.scss" t="Include" />
+                      <e p="_size.scss" t="Include" />
+                      <e p="_table-row.scss" t="Include" />
+                      <e p="_text-emphasis.scss" t="Include" />
+                      <e p="_text-hide.scss" t="Include" />
+                      <e p="_text-truncate.scss" t="Include" />
+                      <e p="_transition.scss" t="Include" />
+                      <e p="_visibility.scss" t="Include" />
+                    </e>
+                    <e p="utilities" t="Include">
+                      <e p="_align.scss" t="Include" />
+                      <e p="_background.scss" t="Include" />
+                      <e p="_borders.scss" t="Include" />
+                      <e p="_clearfix.scss" t="Include" />
+                      <e p="_display.scss" t="Include" />
+                      <e p="_embed.scss" t="Include" />
+                      <e p="_flex.scss" t="Include" />
+                      <e p="_float.scss" t="Include" />
+                      <e p="_position.scss" t="Include" />
+                      <e p="_screenreaders.scss" t="Include" />
+                      <e p="_shadows.scss" t="Include" />
+                      <e p="_sizing.scss" t="Include" />
+                      <e p="_spacing.scss" t="Include" />
+                      <e p="_text.scss" t="Include" />
+                      <e p="_visibility.scss" t="Include" />
+                    </e>
+                  </e>
+                  <e p="bootstrap.scss" t="Include" />
+                  <e p="responsive.scss" t="Include" />
+                  <e p="ui-assets" t="Include">
+                    <e p="_base.scss" t="Include" />
+                    <e p="components" t="Include">
+                      <e p="_buttons.scss" t="Include" />
+                      <e p="_cards-product.scss" t="Include" />
+                      <e p="_elements.scss" t="Include" />
+                      <e p="_items.scss" t="Include" />
+                      <e p="_lists.scss" t="Include" />
+                      <e p="_menu.scss" t="Include" />
+                      <e p="_plugin-styles.scss" t="Include" />
+                    </e>
+                    <e p="helpers" t="Include">
+                      <e p="_bg.scss" t="Include" />
+                      <e p="_grid-24.scss" t="Include" />
+                      <e p="_helper-classes.scss" t="Include" />
+                      <e p="_mixins.scss" t="Include" />
+                      <e p="_typography.scss" t="Include" />
+                    </e>
+                    <e p="pages" t="Include">
+                      <e p="_page-common.scss" t="Include" />
+                      <e p="_page-detail.scss" t="Include" />
+                      <e p="_page-home.scss" t="Include" />
+                    </e>
+                    <e p="sections" t="Include">
+                      <e p="_footer.scss" t="Include" />
+                      <e p="_header.scss" t="Include" />
+                      <e p="_sidebar.scss" t="Include" />
+                    </e>
+                  </e>
+                  <e p="ui.scss" t="Include" />
+                </e>
+                <e p="starter-alibaba-home.html" t="Include" />
+                <e p="starter-alibaba-listing-grid.html" t="Include" />
+                <e p="starter-alibaba-product-detail.html" t="Include" />
+                <e p="starter-home-1.html" t="Include" />
+                <e p="starter-home-2.html" t="Include" />
+                <e p="starter-home-3.html" t="Include" />
+                <e p="starter-home-4.html" t="Include" />
+                <e p="starter-home-5.html" t="Include" />
+                <e p="starter-home-6.html" t="Include" />
+                <e p="starter-landing.html" t="Include" />
+                <e p="starter-page-content.html" t="Include" />
+                <e p="starter-page-listing.html" t="Include" />
+                <e p="starter-page-order.html" t="Include" />
+              </e>
+            </e>
+            <e p="caroussel" t="Include">
+              <e p="carousel.css" t="Include" />
+            </e>
+            <e p="charts" t="Include">
+              <e p="charts.js" t="Include" />
+            </e>
+            <e p="dashboard" t="Include">
+              <e p="dashboard.css" t="Include" />
+              <e p="dashboard.js" t="Include" />
+            </e>
+            <e p="feather" t="Include">
+              <e p="feather.js" t="Include" />
+            </e>
+            <e p="holder" t="Include">
+              <e p="holder.min.js" t="Include" />
+            </e>
+            <e p="jquery3.3.1" t="Include">
+              <e p="jquery-3.3.1.min.js" t="Include" />
+            </e>
+            <e p="popper1.14.6" t="Include">
+              <e p="popper.min.js" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

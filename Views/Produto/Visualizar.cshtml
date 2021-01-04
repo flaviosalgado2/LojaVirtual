@@ -1,0 +1,24 @@
+@{
+    
+}
+
+<h1>Olá Mundo!</h1>
+
+Razor:
+@model LojaVirtual.Models.Produto
+@DateTime.Now
+
+@{
+    string nome = "Testando a aplicação!";
+}
+
+@nome;
+
+
+<h3>@nome</h3>
+<br>
+<h2>Produto</h2>
+<b>Código:</b> @Model.Id
+<b>Código:</b> @Model.Nome
+<b>Código:</b> @Model.Descricao
+<b>Código:</b> @Model.Valor.ToString("C")
