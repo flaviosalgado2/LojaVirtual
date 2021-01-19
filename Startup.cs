@@ -8,6 +8,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore.SqlServer;
+using Microsoft.EntityFrameworkCore;
+using LojaVirtual.Database;
 
 namespace LojaVirtual
 {
@@ -24,6 +27,11 @@ namespace LojaVirtual
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            //string connection = "Server=(localdb)\\MSSQLLocalDB;Initial Catalog=LojaVirtual;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string connection = "Server=localhost;Database=LojaVirtual;User Id=SA;Password=Flavio-161090";
+
+            services.AddDbContext<LojaVirtualContext>(options => options.UseSqlServer(connection));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,12 +48,12 @@ namespace LojaVirtual
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
-            
+
             app.UseDefaultFiles();
 
-            app.UseStaticFiles();    
+            app.UseStaticFiles();
 
-            app.UseCookiePolicy();        
+            app.UseCookiePolicy();
 
             app.UseRouting();
 

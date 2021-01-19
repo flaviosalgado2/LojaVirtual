@@ -12,7 +12,8 @@ namespace LojaVirtual.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            var news = new NewsletterEmail(){ Email = "ribeiro@gmail.com" };
+            return View(news);
         }
 
         public IActionResult Contato()

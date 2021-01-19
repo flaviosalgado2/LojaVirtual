@@ -1,0 +1,9 @@
+SELECT @@VERSION
+
+Microsoft SQL Server 2019 (RTM-CU8) (KB4577194) - 15.0.4073.23 (X64) 
+	Sep 23 2020 16:03:08 
+	Copyright (C) 2019 Microsoft Corporation
+	Express Edition (64-bit) on Linux (Linux Mint 19.3) <X64>
+
+
+sqlcmd -S localhost -U SA -P 'Flavio-161090'

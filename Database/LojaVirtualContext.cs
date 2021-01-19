@@ -7,9 +7,10 @@ namespace LojaVirtual.Database
     {
         public LojaVirtualContext(DbContextOptions<LojaVirtualContext> options) : base(options)
         {
-            
+
         }
-        
+
         public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<NewsletterEmail> NewsletterEmails { get; set; }
     }
 }
